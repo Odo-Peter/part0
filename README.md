@@ -1,13 +1,13 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The exercise](#the-exercise)
+  - [The exercises](#the-exercises)
   - [Pictorial View](#pictorial-view)
   - [Links](#links)
 
 ## Overview
 
-### The exercise
+### The exercises
 
 - Create a similar diagram depicting the situation where the user creates a new note on page https://studies.cs.helsinki.fi/exampleapp/notes when writing something into the text field and clicking the submit button.
 
